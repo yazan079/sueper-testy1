@@ -1,0 +1,4 @@
+cat filneam | grep name 
+ls -al 
+mkdir testology
+hi all 
